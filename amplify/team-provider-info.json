@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gexchange-dev-183924-authRole",
+      "UnauthRoleArn": "arn:aws:iam::701675063998:role/amplify-gexchange-dev-183924-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::701675063998:role/amplify-gexchange-dev-183924-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-gexchange-dev-183924-deployment",
+      "UnauthRoleName": "amplify-gexchange-dev-183924-unauthRole",
+      "StackName": "amplify-gexchange-dev-183924",
+      "StackId": "arn:aws:cloudformation:us-west-2:701675063998:stack/amplify-gexchange-dev-183924/4e1fade0-0ce0-11ed-a67f-0226f9480d8b",
+      "AmplifyAppId": "d2bvzqrvnmo0wt"
+    },
+    "categories": {
+      "auth": {
+        "gexchange2fb73e1c": {}
+      },
+      "function": {
+        "gexchange2fb73e1cPostConfirmation": {}
+      }
+    }
+  }
+}
